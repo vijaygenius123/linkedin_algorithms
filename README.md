@@ -1,7 +1,7 @@
 ---
-title: "Habits"
-author: John Doe
-date: March 22, 2005
+title: "Readme"
+author: Vijayaraghavan Sundararaman
+date: Nov 2, 2019
 output: pdf_document
 ---
 
@@ -9,7 +9,7 @@ output: pdf_document
 
 ## GCD Of Two Numbers
 
-```flow
+```sequence
 st=>start: Start
 num=>inputoutput: Take 2 Numbers (Num1, Num2)
 while=>condition: While Num2 != 0
